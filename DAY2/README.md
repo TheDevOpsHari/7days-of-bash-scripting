@@ -1,22 +1,33 @@
-Day 2 – Shell Scripting Intermediate
-📌 Overview
+# 📅 Day 2 – Shell Scripting Intermediate  
 
-This folder contains my Day 2 practice scripts.
-The focus is on loops, functions, conditions, and simple automation.
-Each script includes my name Hareesh in the output so that it is uniquely identified as my work.
-📂 Files
+## 📌 Overview  
+This folder contains my **Day 2 practice scripts** in Shell Scripting.  
+On this day, I explored **loops, functions, case statements, file handling, and basic monitoring scripts**.  
+Each script includes my name **Hareesh** in the output so that it is uniquely identified as my work.  
 
-for-loop.sh → Prints numbers from 1 to 5 with my name.
+---
 
-while-loop.sh → Demonstrates a while loop with counting.
+## 📂 Files  
 
-calculator.sh → A simple calculator (addition, subtraction, multiplication, division).
+1. 
+   ![Screenshot](1.png)  
 
-file-check.sh → Checks if a file exists or not.
+2.  
+   ![Screenshot](2.png)  
 
-disk-usage.sh → Checks disk usage and alerts if usage is high.
-▶️ How to Run
+3.   
+   ![Screenshot](3.png)  
 
-Run any script using:
-bash scriptname.sh
-bash calculator.sh
+4.  
+   ![Screenshot](4.png)  
+
+5. 
+   ![Screenshot](5.png)  
+
+---
+
+## ▶️ How to Run  
+
+Make script executable:  
+```bash
+chmod +x scriptname.sh
